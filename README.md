@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anderson
 
-<!--
-**beckmorr/beckmorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A newcomer 🐣 to the world of computer science
 
-Here are some ideas to get you started:
+I am a Computer Science student at Universidade Estadual de Santa Cruz (UESC), located in Ilhéus, Bahia, Brazil. Currently, I am focused on expanding my knowledge in **Python**, **data analysis**, and **game development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong interest in exploring how technology can be applied to solve real-world problems, and I am always on the lookout for new challenges that allow me to grow as a developer and data scientist.
+
+Here on GitHub, you’ll find projects that reflect my interests, ranging from Python scripts for data manipulation to small initiatives in simple game development. Feel free to explore, and if you have any questions or would like to collaborate, don’t hesitate to reach out!
+
+---
+
+🖥️ **Currently studying:** Computer Science at UESC  
+🐍 **Interests:** Python, Data Analysis, Game Development  
+🎮 **Hobbies:** Gaming and reading manga  
+🌍 **Location:** Ilhéus, Bahia, Brazil
