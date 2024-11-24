@@ -11,5 +11,4 @@ Here on GitHub, you’ll find projects that reflect my interests, ranging from P
 ---
 🖥️ **Currently studying:** Computer Science at UESC  
 🐍 **Interests:** Python, C, Computer Systems Design, Assembly Language, Digital Logic  
-🎮 **Hobbies:** Learning math and playing games
 🌍 **Location:** Ilhéus, Bahia, Brazil
