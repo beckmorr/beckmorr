@@ -8,4 +8,5 @@ I have a strong interest in exploring how technology can be applied to solve rea
 ---
 🖥️ **Currently studying:** Computer Science at UESC  
 🐍 **Interests:** Python, C, R, Data Science
+
 🌍 **Location:** Ilhéus, Bahia, Brazil
