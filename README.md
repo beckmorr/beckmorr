@@ -1,4 +1,4 @@
-# Hello, I'm Anderson 👋
+# Hello, I'm Anderson
 
 <div align="left">
   <img src="https://img.shields.io/badge/Student-Computer%20Science-blue?style=flat-square&logo=bookstack" />
@@ -9,11 +9,11 @@
 
 I am a Computer Science student at **Universidade Estadual de Santa Cruz (UESC)**. Currently, I am focused on expanding my knowledge in low-level and high-level programming.
 
-- 🖥️ **Currently studying:** Computer Science at UESC
-- 🧠 **Interests:** Solving real-world problems with technology
-- 🔭 **Looking for:** New challenges to grow as a developer
+- **Currently studying:** Computer Science at UESC
+- **Interests:** Solving real-world problems with technology
+- **Looking for:** New challenges to grow as a developer
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="left">
 
